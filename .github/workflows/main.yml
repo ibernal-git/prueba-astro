@@ -4,7 +4,7 @@
 # Remember to add API_TOKEN_GITHUB in repo Settings > Secrets as well!
 env:
   githubEmail: info@ibernal.dev
-  deployToRepo: ibernal-git.github.io/prueba-astro/
+  deployToRepo: prueba-astro
 
 name: Github Pages Astro CI
 
